@@ -1,0 +1,785 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html
+Subject: AI FairPlay - Transforming Football's Future
+Date: Wed, 24 Jun 2026 16:01:18 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QN05VJ5Ofo2lNOJ2u8CeZZarbhqxZ4HPcO4fbMG08h----"
+
+
+------MultipartBoundary--QN05VJ5Ofo2lNOJ2u8CeZZarbhqxZ4HPcO4fbMG08h----
+Content-Type: text/html
+Content-ID: <frame-AB06255E14F7FB1639368AD010294238@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-7dbc1148-6446-42c0-be68-95ae5091d0ac@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>AI FairPlay - Transforming Football's Future</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/Sofonie%20Dala/Deskto=
+p/ai-fairplay-project/assets/css/main.css">
+   =20
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class=3D"container">
+            <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-=
+project/website/index.html#" class=3D"logo">=E2=9A=BD AI FairPlay</a>
+            <ul>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#video">Video</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#challenges">Challenges</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#solution">Solution</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#prototype">Prototype</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#vision">Vision</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/dashboard/index.html">Dashboard</a></li>
+                <li><a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/presentation/index.html">Presentation</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class=3D"hero-website">
+        <div class=3D"container">
+            <h1 class=3D"fade-in" style=3D"opacity: 1; transform: translate=
+Y(0px);">AI FairPlay</h1>
+            <p class=3D"fade-in" style=3D"animation-delay: 0.2s; opacity: 1=
+; transform: translateY(0px);">Transforming Football's Future Through Artif=
+icial Intelligence</p>
+            <p style=3D"font-size: 1.1rem; margin-bottom: 2rem; animation-d=
+elay: 0.4s; opacity: 1; transform: translateY(0px);" class=3D"fade-in">
+                Presented by <strong>Sofonie Dala</strong>, Sustainability =
+Impact Volunteer
+            </p>
+            <div style=3D"display: flex; gap: 1rem; justify-content: center=
+; flex-wrap: wrap;">
+                <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairp=
+lay-project/website/index.html#video" class=3D"btn btn-primary fade-in" sty=
+le=3D"animation-delay: 0.6s; opacity: 1; transform: translateY(0px);">=F0=
+=9F=8E=A5 Watch Video</a>
+                <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairp=
+lay-project/website/index.html#challenges" class=3D"btn btn-secondary fade-=
+in" style=3D"animation-delay: 0.7s; opacity: 1; transform: translateY(0px);=
+">Explore the Solution</a>
+            </div>
+        </div>
+        <div class=3D"scroll-indicator">
+            <span style=3D"font-size: 2rem;">=E2=86=93</span>
+        </div>
+    </section>
+
+    <!-- Introduction -->
+    <section style=3D"background: white;">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>The Beautiful Game Faces Ugly Truths</h2>
+            </div>
+            <div class=3D"grid grid-2">
+                <div class=3D"slide-in-left" style=3D"opacity: 1; transform=
+: translateY(0px);">
+                    <p style=3D"font-size: 1.2rem; line-height: 1.8;">
+                        Football is the world's game. The FIFA World Cup is=
+ its crown jewel =E2=80=94 a celebration of unity, passion, and human achie=
+vement. It is the stage where nations unite, where legends are born, and wh=
+ere billions of fans share unforgettable moments.
+                    </p>
+                </div>
+                <div class=3D"slide-in-right" style=3D"opacity: 1; transfor=
+m: translateY(0px);">
+                    <p style=3D"font-size: 1.2rem; line-height: 1.8;">
+                        Yet beneath the glamour lies a series of crises tha=
+t threaten the integrity of the sport and the safety of millions. These cha=
+llenges demand immediate action.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Presentation Section -->
+    <section class=3D"video-section" id=3D"video">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>=F0=9F=93=B9 Watch the Presentation</h2>
+            </div>
+            <p style=3D"text-align: center; font-size: 1.2rem; margin-botto=
+m: 3rem; color: #666;">
+                See the full AI FairPlay presentation and learn how artific=
+ial intelligence can transform football's future.
+            </p>
+            <div class=3D"video-wrapper">
+                <div class=3D"video-container" id=3D"videoContainer">
+                    <video id=3D"mainVideo" controls=3D"" preload=3D"metada=
+ta" style=3D"width: 100%; height: 100%; position: absolute; top: 0; left: 0=
+; border-radius: 12px; background: #000;" poster=3D"data:image/svg+xml,%3Cs=
+vg xmlns=3D'http://www.w3.org/2000/svg' viewBox=3D'0 0 800 450'%3E%3Crect f=
+ill=3D'%230066cc' width=3D'800' height=3D'450'/%3E%3Ctext x=3D'50%25' y=3D'=
+50%25' dominant-baseline=3D'middle' text-anchor=3D'middle' font-family=3D'A=
+rial' font-size=3D'48' fill=3D'white'%3E%E2%9A%BD AI FairPlay Presentation%=
+3C/text%3E%3Ctext x=3D'50%25' y=3D'60%25' dominant-baseline=3D'middle' text=
+-anchor=3D'middle' font-family=3D'Arial' font-size=3D'24' fill=3D'white' op=
+acity=3D'0.8'%3EClick to Play%3C/text%3E%3C/svg%3E">
+                        <source src=3D"file:///C:/Users/Sofonie%20Dala/Desk=
+top/ai-fairplay-project/assets/video.mp4" type=3D"video/mp4">
+                        <source src=3D"file:///C:/Users/Sofonie%20Dala/Desk=
+top/ai-fairplay-project/assets/video.mp4" type=3D"video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                <div style=3D"text-align: center; margin-top: 2rem;">
+                    <a href=3D"https://youtu.be/cfV7albMnuQ" target=3D"_bla=
+nk" class=3D"btn btn-primary" style=3D"margin-right: 1rem;">
+                        =F0=9F=8E=A5 Watch on YouTube
+                    </a>
+                    <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/website/index.html#challenges" class=3D"btn btn-secondary">
+                        Continue Reading =E2=86=93
+                    </a>
+                </div>
+                <div style=3D"background: #d4edda; padding: 1.5rem; border-=
+radius: 8px; margin-top: 2rem; border-left: 4px solid #00a86b;">
+                    <p style=3D"margin: 0; color: #155724;">
+                        <strong>=E2=9C=93 Video Ready!</strong> The present=
+ation video is now embedded and will play directly in your browser. Click p=
+lay to watch!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Challenges Section -->
+    <section id=3D"challenges" style=3D"background: #f8f9fa;">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>The Challenges We Must Confront</h2>
+            </div>
+
+            <!-- Statistics -->
+            <div class=3D"stats-grid">
+                <div class=3D"stat-box fade-in" style=3D"opacity: 1; transf=
+orm: translateY(0px);">
+                    <span class=3D"stat-number">1,398</span>
+                    <span class=3D"stat-label">Discrimination Cases (2024-2=
+5)</span>
+                </div>
+                <div class=3D"stat-box fade-in" style=3D"animation-delay: 0=
+.2s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"stat-number">57%</span>
+                    <span class=3D"stat-label">Cases in Youth Football</spa=
+n>
+                </div>
+                <div class=3D"stat-box fade-in" style=3D"animation-delay: 0=
+.4s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"stat-number">Qatar 2022</span>
+                    <span class=3D"stat-label">Exposed Systemic Abuses</spa=
+n>
+                </div>
+            </div>
+
+            <!-- Challenge Cards -->
+            <div class=3D"grid grid-3">
+                <div class=3D"card challenge-card fade-in" style=3D"opacity=
+: 1; transform: translateY(0px);">
+                    <div class=3D"card-header">
+                        <h3>=F0=9F=9A=AB Discrimination &amp; Abuse</h3>
+                    </div>
+                    <p>Over <strong>1,398 cases of discrimination</strong> =
+reported in the 2024-25 season alone. Racial slurs, sexist harassment, and =
+homophobic chants plague stadiums and social media.</p>
+                    <div class=3D"alert alert-danger">
+                        <strong>57% of cases</strong> occur in under-18 com=
+petitions, normalizing prejudice at an early age.
+                    </div>
+                    <p>FIFA's response has been weak =E2=80=94 symbolic fin=
+es, closed-door matches, inconsistent enforcement. These measures fail to d=
+eter offenders.</p>
+                </div>
+
+                <div class=3D"card challenge-card fade-in" style=3D"animati=
+on-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <div class=3D"card-header">
+                        <h3>=E2=9A=96=EF=B8=8F Governance Flaws</h3>
+                    </div>
+                    <p>Structural failures have enabled <strong>systematic =
+human rights abuses</strong>. Qatar 2022 exposed forced labor, mass evictio=
+ns, and police violence.</p>
+                    <div class=3D"alert alert-warning">
+                        Reforms since 2016 delivered little improvement. Ov=
+ersight boards were dismantled.
+                    </div>
+                    <p>Without accountability, FIFA risks losing its moral =
+authority. Governance flaws weaken trust and undermine the values FIFA clai=
+ms to uphold.</p>
+                </div>
+
+                <div class=3D"card challenge-card fade-in" style=3D"animati=
+on-delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <div class=3D"card-header">
+                        <h3>=F0=9F=8C=8D Societal Crises</h3>
+                    </div>
+                    <p>The World Cup brings enormous social consequences. F=
+ans face long-term debt, human trafficking, child exploitation, and prostit=
+ution rise during tournaments.</p>
+                    <div class=3D"alert alert-danger">
+                        Fraudulent visa organizations and dishonest investo=
+rs exploit vulnerable fans.
+                    </div>
+                    <p>Reports of deaths, missing persons, and scams tarnis=
+h the World Cup's legacy. The glamour masks crises that linger long after t=
+he final whistle.</p>
+                </div>
+            </div>
+
+            <div class=3D"quote-box fade-in" style=3D"opacity: 1; transform=
+: translateY(0px);">
+                "These challenges are interconnected. Discrimination erodes=
+ inclusivity. Governance flaws enable corruption. Societal crises exploit t=
+he communities football is meant to inspire."
+            </div>
+        </div>
+    </section>
+
+    <!-- Why It Matters -->
+    <section style=3D"background: white;">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>Why These Challenges Matter</h2>
+            </div>
+            <div class=3D"card">
+                <h3>Imagine the consequences if these issues remain unresol=
+ved:</h3>
+                <ul style=3D"font-size: 1.1rem; line-height: 2; margin-left=
+: 2rem;">
+                    <li>Players silenced by fear of abuse</li>
+                    <li>Fans excluded by financial exploitation</li>
+                    <li>Communities scarred by trafficking and fraud</li>
+                    <li>FIFA itself stripped of credibility</li>
+                </ul>
+                <p style=3D"font-size: 1.2rem; margin-top: 2rem; font-weigh=
+t: 600; color: #0066cc;">
+                    The World Cup should be a beacon of unity, not a symbol=
+ of division.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section id=3D"solution" style=3D"background: linear-gradient(135deg, #=
+f8f9fa, #e9ecef);">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>The Solution: AI FairPlay</h2>
+            </div>
+           =20
+            <div class=3D"card" style=3D"background: white;">
+                <h3>What is AI FairPlay?</h3>
+                <p style=3D"font-size: 1.2rem; line-height: 1.8;">
+                    AI FairPlay is a platform where <strong>artificial inte=
+lligence is the core functional element</strong>, built with IBM's advanced=
+ AI technologies. It is designed to tackle discrimination, governance flaws=
+, and societal crises head-on.
+                </p>
+                <p style=3D"font-size: 1.1rem; color: #0066cc; font-weight:=
+ 600;">
+                    It is not just a tool, but a framework for accountabili=
+ty, inclusion, and protection.
+                </p>
+            </div>
+
+            <h3 class=3D"text-center" style=3D"margin: 3rem 0 2rem;">How AI=
+ FairPlay Works</h3>
+            <div class=3D"grid grid-2">
+                <div class=3D"solution-feature fade-in" style=3D"opacity: 1=
+; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=F0=9F=94=8D</span>
+                    <h3>Real-Time Analysis</h3>
+                    <p>AI analyzes reports and social media in real time to=
+ detect abuse and recommend immediate action.</p>
+                </div>
+
+                <div class=3D"solution-feature fade-in" style=3D"animation-=
+delay: 0.1s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=F0=9F=94=97</span>
+                    <h3>Workflow Integration</h3>
+                    <p>AI connects and organizes workflows across abuse mon=
+itoring, governance audits, and fraud detection.</p>
+                </div>
+
+                <div class=3D"solution-feature fade-in" style=3D"animation-=
+delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=F0=9F=93=84</span>
+                    <h3>Document Intelligence</h3>
+                    <p>AI reads and extracts data from FIFA contracts, disc=
+iplinary reports, and financial documents.</p>
+                </div>
+
+                <div class=3D"solution-feature fade-in" style=3D"animation-=
+delay: 0.3s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=F0=9F=A7=A0</span>
+                    <h3>Pattern Recognition</h3>
+                    <p>AI provides context and reasoning, identifying patte=
+rns that point to trafficking hotspots or fraud.</p>
+                </div>
+
+                <div class=3D"solution-feature fade-in" style=3D"animation-=
+delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=F0=9F=A4=9D</span>
+                    <h3>Fan Assistant</h3>
+                    <p>AI acts as a trusted assistant for fans, offering ve=
+rified information on tickets, visas, and safe travel.</p>
+                </div>
+
+                <div class=3D"solution-feature fade-in" style=3D"animation-=
+delay: 0.5s; opacity: 1; transform: translateY(0px);">
+                    <span class=3D"feature-icon">=E2=9A=A1</span>
+                    <h3>Instant Action</h3>
+                    <p>AI ensures nothing slips through the cracks with aut=
+omated alerts and recommendations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Prototype Section -->
+    <section id=3D"prototype" style=3D"background: white;">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>Prototype Functions</h2>
+            </div>
+
+            <div class=3D"prototype-preview">
+                <h3 style=3D"margin-bottom: 2rem;">Three Core Functions</h3=
+>
+               =20
+                <div class=3D"prototype-function">
+                    <div class=3D"function-number">1</div>
+                    <div>
+                        <h4>Abuse Monitor</h4>
+                        <p>Detects racism, sexism, and homophobia online an=
+d in stadiums, recommending sanctions instantly.</p>
+                    </div>
+                </div>
+
+                <div class=3D"prototype-function">
+                    <div class=3D"function-number">2</div>
+                    <div>
+                        <h4>Governance Auditor</h4>
+                        <p>Reviews FIFA's financial and governance document=
+s, highlighting inconsistencies and risks.</p>
+                    </div>
+                </div>
+
+                <div class=3D"prototype-function">
+                    <div class=3D"function-number">3</div>
+                    <div>
+                        <h4>Societal Risk Detector</h4>
+                        <p>Cross-references travel, ticketing, and crime da=
+ta to flag trafficking or fraud hotspots.</p>
+                    </div>
+                </div>
+
+                <div style=3D"text-align: center; margin-top: 2rem;">
+                    <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-f=
+airplay-project/dashboard/index.html" class=3D"btn btn-primary">View Intera=
+ctive Dashboard</a>
+                </div>
+            </div>
+
+            <h3 class=3D"text-center" style=3D"margin: 3rem 0 2rem;">Why AI=
+ FairPlay Matters</h3>
+            <div class=3D"grid grid-2">
+                <div class=3D"card fade-in" style=3D"opacity: 1; transform:=
+ translateY(0px);">
+                    <h4>=F0=9F=91=A5 For Players</h4>
+                    <p>Safer, more inclusive environments free from discrim=
+ination and abuse.</p>
+                </div>
+                <div class=3D"card fade-in" style=3D"animation-delay: 0.1s;=
+ opacity: 1; transform: translateY(0px);">
+                    <h4>=F0=9F=8E=AB For Fans</h4>
+                    <p>Protection from fraud, trafficking, and exploitation=
+ during tournaments.</p>
+                </div>
+                <div class=3D"card fade-in" style=3D"animation-delay: 0.2s;=
+ opacity: 1; transform: translateY(0px);">
+                    <h4>=E2=9A=BD For FIFA</h4>
+                    <p>Restored credibility through transparency and accoun=
+tability.</p>
+                </div>
+                <div class=3D"card fade-in" style=3D"animation-delay: 0.3s;=
+ opacity: 1; transform: translateY(0px);">
+                    <h4>=F0=9F=8C=8D For Society</h4>
+                    <p>A model for how AI can safeguard communities during =
+global mega-events.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Vision Section -->
+    <section id=3D"vision" style=3D"background: #f8f9fa;">
+        <div class=3D"container">
+            <div class=3D"section-title">
+                <h2>The Vision</h2>
+            </div>
+
+            <div class=3D"quote-box">
+                "Imagine a World Cup where every child feels safe in the st=
+ands. Where every player competes free from abuse. Where every fan travels =
+without fear of fraud or exploitation."
+            </div>
+
+            <div class=3D"card">
+                <h3>That future is possible =E2=80=94 but only if we act.</=
+h3>
+                <p style=3D"font-size: 1.2rem; line-height: 1.8;">
+                    AI FairPlay is not just a solution for FIFA. It is a so=
+lution for humanity. Let us innovate responsibly. Let us govern transparent=
+ly. Let us protect communities. And let us ensure that football remains wha=
+t it was always meant to be: <strong>the beautiful game</strong>.
+                </p>
+            </div>
+
+            <div class=3D"grid grid-3" style=3D"margin-top: 3rem;">
+                <div class=3D"card text-center fade-in" style=3D"opacity: 1=
+; transform: translateY(0px);">
+                    <span style=3D"font-size: 3rem; display: block; margin-=
+bottom: 1rem;">=F0=9F=94=AC</span>
+                    <h4>Innovate Responsibly</h4>
+                    <p>Use AI to solve real problems, not create new ones.<=
+/p>
+                </div>
+                <div class=3D"card text-center fade-in" style=3D"animation-=
+delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <span style=3D"font-size: 3rem; display: block; margin-=
+bottom: 1rem;">=F0=9F=93=8A</span>
+                    <h4>Govern Transparently</h4>
+                    <p>Build systems that hold power accountable.</p>
+                </div>
+                <div class=3D"card text-center fade-in" style=3D"animation-=
+delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <span style=3D"font-size: 3rem; display: block; margin-=
+bottom: 1rem;">=F0=9F=9B=A1=EF=B8=8F</span>
+                    <h4>Protect Communities</h4>
+                    <p>Ensure safety and dignity for all participants.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class=3D"cta-section">
+        <div class=3D"container">
+            <h2>The Challenges Are Immense, But So Is The Opportunity</h2>
+            <p style=3D"font-size: 1.2rem; margin: 2rem 0;">
+                If we confront discrimination, reform governance, and prote=
+ct society, the World Cup can truly become a beacon of unity. It can show t=
+he world that sport is not just entertainment, but a force for justice, inc=
+lusion, and human dignity.
+            </p>
+            <div style=3D"display: flex; gap: 1rem; justify-content: center=
+; flex-wrap: wrap;">
+                <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairp=
+lay-project/dashboard/index.html" class=3D"btn btn-primary">Explore Dashboa=
+rd</a>
+                <a href=3D"file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairp=
+lay-project/presentation/index.html" class=3D"btn btn-secondary">View Prese=
+ntation</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class=3D"container">
+            <p><strong>AI FairPlay</strong> - Transforming Football's Futur=
+e</p>
+            <p>Presented by Sofonie Dala, Sustainability Impact Volunteer</=
+p>
+            <p style=3D"margin-top: 1rem; opacity: 0.8;">Built with IBM AI =
+Technologies</p>
+        </div>
+    </footer>
+
+   =20
+
+</body></html>
+------MultipartBoundary--QN05VJ5Ofo2lNOJ2u8CeZZarbhqxZ4HPcO4fbMG08h----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/assets/css/main.css
+
+@charset "utf-8";
+
+:root { --primary-color: #0066cc; --secondary-color: #00a86b; --danger-colo=
+r: #dc3545; --warning-color: #ffc107; --dark-color: #1a1a2e; --light-color:=
+ #f8f9fa; --text-color: #333; --border-radius: 12px; --transition: all 0.3s=
+ ease; --shadow: 0 4px 6px rgba(0, 0, 0, 0.1); --shadow-lg: 0 10px 30px rgb=
+a(0, 0, 0, 0.15); }
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; line-h=
+eight: 1.6; color: var(--text-color); background: var(--light-color); overf=
+low-x: hidden; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: 700; margin-bottom: 1rem; color: var(=
+--dark-color); }
+
+h1 { font-size: 2.5rem; }
+
+h2 { font-size: 2rem; }
+
+h3 { font-size: 1.75rem; }
+
+h4 { font-size: 1.5rem; }
+
+p { margin-bottom: 1rem; line-height: 1.8; }
+
+.container { max-width: 1200px; margin: 0px auto; padding: 0px 20px; }
+
+.btn { display: inline-block; padding: 12px 30px; border-width: medium; bor=
+der-style: none; border-color: currentcolor; border-image: initial; border-=
+radius: var(--border-radius); font-size: 1rem; font-weight: 600; text-decor=
+ation: none; cursor: pointer; transition: var(--transition); text-align: ce=
+nter; }
+
+.btn-primary { background: var(--primary-color); color: white; }
+
+.btn-primary:hover { background: rgb(0, 82, 163); transform: translateY(-2p=
+x); box-shadow: var(--shadow-lg); }
+
+.btn-secondary { background: var(--secondary-color); color: white; }
+
+.btn-secondary:hover { background: rgb(0, 140, 90); transform: translateY(-=
+2px); }
+
+.card { background: white; border-radius: var(--border-radius); padding: 2r=
+em; box-shadow: var(--shadow); transition: var(--transition); margin-bottom=
+: 2rem; }
+
+.card:hover { box-shadow: var(--shadow-lg); transform: translateY(-5px); }
+
+.card-header { border-bottom: 2px solid var(--primary-color); padding-botto=
+m: 1rem; margin-bottom: 1.5rem; }
+
+.stat-box { background: linear-gradient(135deg, var(--primary-color), var(-=
+-secondary-color)); color: white; padding: 2rem; border-radius: var(--borde=
+r-radius); text-align: center; box-shadow: var(--shadow); }
+
+.stat-number { font-size: 3rem; font-weight: 700; display: block; margin-bo=
+ttom: 0.5rem; }
+
+.stat-label { font-size: 1.1rem; opacity: 0.9; }
+
+.grid { display: grid; gap: 2rem; margin-bottom: 2rem; }
+
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+
+.grid-4 { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+@keyframes slideInLeft {=20
+  0% { opacity: 0; transform: translateX(-50px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+
+@keyframes slideInRight {=20
+  0% { opacity: 0; transform: translateX(50px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+
+.fade-in { animation: 0.6s ease-out 0s 1 normal none running fadeIn; }
+
+.slide-in-left { animation: 0.6s ease-out 0s 1 normal none running slideInL=
+eft; }
+
+.slide-in-right { animation: 0.6s ease-out 0s 1 normal none running slideIn=
+Right; }
+
+nav { background: var(--dark-color); padding: 1rem 0px; position: sticky; t=
+op: 0px; z-index: 1000; box-shadow: var(--shadow); }
+
+nav .container { display: flex; justify-content: space-between; align-items=
+: center; }
+
+nav .logo { font-size: 1.5rem; font-weight: 700; color: white; text-decorat=
+ion: none; }
+
+nav ul { display: flex; list-style: none; gap: 2rem; }
+
+nav a { color: white; text-decoration: none; font-weight: 500; transition: =
+var(--transition); }
+
+nav a:hover { color: var(--secondary-color); }
+
+.hero { background: linear-gradient(135deg, var(--primary-color), var(--sec=
+ondary-color)); color: white; padding: 6rem 0px; text-align: center; }
+
+.hero h1 { color: white; font-size: 3rem; margin-bottom: 1rem; }
+
+.hero p { font-size: 1.3rem; margin-bottom: 2rem; opacity: 0.95; }
+
+section { padding: 4rem 0px; }
+
+.section-title { text-align: center; margin-bottom: 3rem; position: relativ=
+e; }
+
+.section-title::after { content: ""; display: block; width: 80px; height: 4=
+px; background: var(--primary-color); margin: 1rem auto; border-radius: 2px=
+; }
+
+.alert { padding: 1rem 1.5rem; border-radius: var(--border-radius); margin-=
+bottom: 1rem; border-left: 4px solid; }
+
+.alert-danger { background: rgb(248, 215, 218); border-color: var(--danger-=
+color); color: rgb(114, 28, 36); }
+
+.alert-warning { background: rgb(255, 243, 205); border-color: var(--warnin=
+g-color); color: rgb(133, 100, 4); }
+
+.alert-success { background: rgb(212, 237, 218); border-color: var(--second=
+ary-color); color: rgb(21, 87, 36); }
+
+footer { background: var(--dark-color); color: white; padding: 3rem 0px; te=
+xt-align: center; }
+
+footer p { margin-bottom: 0.5rem; }
+
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.75rem; }
+  .hero h1 { font-size: 2rem; }
+  .hero p { font-size: 1.1rem; }
+  nav ul { flex-direction: column; gap: 1rem; }
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+}
+
+.text-center { text-align: center; }
+
+.text-left { text-align: left; }
+
+.text-right { text-align: right; }
+
+.mt-1 { margin-top: 1rem; }
+
+.mt-2 { margin-top: 2rem; }
+
+.mb-1 { margin-bottom: 1rem; }
+
+.mb-2 { margin-bottom: 2rem; }
+
+.p-1 { padding: 1rem; }
+
+.p-2 { padding: 2rem; }
+------MultipartBoundary--QN05VJ5Ofo2lNOJ2u8CeZZarbhqxZ4HPcO4fbMG08h----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7dbc1148-6446-42c0-be68-95ae5091d0ac@mhtml.blink
+
+@charset "utf-8";
+
+.hero-website { background: linear-gradient(135deg, rgb(0, 102, 204), rgb(0=
+, 168, 107)); color: white; padding: 8rem 0px 6rem; text-align: center; pos=
+ition: relative; overflow: hidden; }
+
+.hero-website::before { content: "=E2=9A=BD"; position: absolute; font-size=
+: 20rem; opacity: 0.1; top: -5rem; right: -5rem; animation: 20s linear 0s i=
+nfinite normal none running rotate; }
+
+@keyframes rotate {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.challenge-card { border-left: 4px solid rgb(220, 53, 69); transition: 0.3s=
+; }
+
+.challenge-card:hover { border-left-width: 8px; }
+
+.solution-feature { background: linear-gradient(135deg, rgb(248, 249, 250),=
+ rgb(233, 236, 239)); padding: 2rem; border-radius: 12px; text-align: cente=
+r; transition: 0.3s; }
+
+.solution-feature:hover { background: linear-gradient(135deg, rgb(0, 102, 2=
+04), rgb(0, 168, 107)); color: white; transform: scale(1.05); }
+
+.solution-feature:hover h3, .solution-feature:hover p { color: white; }
+
+.feature-icon { font-size: 3rem; margin-bottom: 1rem; display: block; }
+
+.timeline { position: relative; padding: 2rem 0px; }
+
+.timeline-item { padding: 2rem; background: white; border-radius: 12px; mar=
+gin-bottom: 2rem; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px; animation: 0.=
+6s ease-out 0s 1 normal none running fadeIn; }
+
+.cta-section { background: linear-gradient(135deg, rgb(26, 26, 46), rgb(0, =
+102, 204)); color: white; padding: 4rem 0px; text-align: center; }
+
+.cta-section h2 { color: white; }
+
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax=
+(250px, 1fr)); gap: 2rem; margin: 3rem 0px; }
+
+.prototype-preview { background: white; padding: 2rem; border-radius: 12px;=
+ box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 30px; }
+
+.prototype-function { display: flex; align-items: center; gap: 1.5rem; padd=
+ing: 1.5rem; background: rgb(248, 249, 250); border-radius: 8px; margin-bot=
+tom: 1rem; transition: 0.3s; }
+
+.prototype-function:hover { background: rgb(233, 236, 239); transform: tran=
+slateX(10px); }
+
+.function-number { background: linear-gradient(135deg, rgb(0, 102, 204), rg=
+b(0, 168, 107)); color: white; width: 50px; height: 50px; border-radius: 50=
+%; display: flex; align-items: center; justify-content: center; font-size: =
+1.5rem; font-weight: 700; flex-shrink: 0; }
+
+.scroll-indicator { position: absolute; bottom: 2rem; left: 50%; transform:=
+ translateX(-50%); animation: 2s ease 0s infinite normal none running bounc=
+e; }
+
+@keyframes bounce {=20
+  0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0px); }
+  40% { transform: translateX(-50%) translateY(-20px); }
+  60% { transform: translateX(-50%) translateY(-10px); }
+}
+
+.quote-box { background: linear-gradient(135deg, rgb(0, 102, 204), rgb(0, 1=
+68, 107)); color: white; padding: 3rem; border-radius: 12px; font-size: 1.3=
+rem; font-style: italic; text-align: center; margin: 3rem 0px; box-shadow: =
+rgba(0, 0, 0, 0.15) 0px 10px 30px; }
+
+.video-container { position: relative; padding-bottom: 56.25%; height: 0px;=
+ overflow: hidden; max-width: 100%; background: rgb(0, 0, 0); border-radius=
+: 12px; box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px; }
+
+.video-container iframe { position: absolute; top: 0px; left: 0px; width: 1=
+00%; height: 100%; border: 0px; border-radius: 12px; }
+
+.video-section { background: white; padding: 4rem 0px; }
+
+.video-wrapper { max-width: 900px; margin: 0px auto; }
+------MultipartBoundary--QN05VJ5Ofo2lNOJ2u8CeZZarbhqxZ4HPcO4fbMG08h------

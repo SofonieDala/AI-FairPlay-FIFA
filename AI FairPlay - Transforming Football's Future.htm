@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<!-- saved from url=(0078)file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI FairPlay - Transforming Football's Future</title>
+    <link rel="stylesheet" href="./AI FairPlay - Transforming Football&#39;s Future_files/main.css">
+    <style>
+        .hero-website {
+            background: linear-gradient(135deg, #0066cc, #00a86b);
+            color: white;
+            padding: 8rem 0 6rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-website::before {
+            content: '⚽';
+            position: absolute;
+            font-size: 20rem;
+            opacity: 0.1;
+            top: -5rem;
+            right: -5rem;
+            animation: rotate 20s linear infinite;
+        }
+
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .challenge-card {
+            border-left: 4px solid #dc3545;
+            transition: all 0.3s ease;
+        }
+
+        .challenge-card:hover {
+            border-left-width: 8px;
+        }
+
+        .solution-feature {
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            padding: 2rem;
+            border-radius: 12px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .solution-feature:hover {
+            background: linear-gradient(135deg, #0066cc, #00a86b);
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .solution-feature:hover h3,
+        .solution-feature:hover p {
+            color: white;
+        }
+
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+        }
+
+        .timeline-item {
+            padding: 2rem;
+            background: white;
+            border-radius: 12px;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .cta-section {
+            background: linear-gradient(135deg, #1a1a2e, #0066cc);
+            color: white;
+            padding: 4rem 0;
+            text-align: center;
+        }
+
+        .cta-section h2 {
+            color: white;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+
+        .prototype-preview {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .prototype-function {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .prototype-function:hover {
+            background: #e9ecef;
+            transform: translateX(10px);
+        }
+
+        .function-number {
+            background: linear-gradient(135deg, #0066cc, #00a86b);
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        .scroll-indicator {
+            position: absolute;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+            40% { transform: translateX(-50%) translateY(-20px); }
+            60% { transform: translateX(-50%) translateY(-10px); }
+        }
+
+        .quote-box {
+            background: linear-gradient(135deg, #0066cc, #00a86b);
+            color: white;
+            padding: 3rem;
+            border-radius: 12px;
+            font-size: 1.3rem;
+            font-style: italic;
+            text-align: center;
+            margin: 3rem 0;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            border-radius: 12px;
+        }
+
+        .video-section {
+            background: white;
+            padding: 4rem 0;
+        }
+
+        .video-wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#" class="logo">⚽ AI FairPlay</a>
+            <ul>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#video">Video</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#challenges">Challenges</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#solution">Solution</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#prototype">Prototype</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#vision">Vision</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/dashboard/index.html">Dashboard</a></li>
+                <li><a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/presentation/index.html">Presentation</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-website">
+        <div class="container">
+            <h1 class="fade-in" style="opacity: 1; transform: translateY(0px);">AI FairPlay</h1>
+            <p class="fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">Transforming Football's Future Through Artificial Intelligence</p>
+            <p style="font-size: 1.1rem; margin-bottom: 2rem; animation-delay: 0.4s; opacity: 1; transform: translateY(0px);" class="fade-in">
+                Presented by <strong>Sofonie Dala</strong>, Sustainability Impact Volunteer
+            </p>
+            <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#video" class="btn btn-primary fade-in" style="animation-delay: 0.6s; opacity: 1; transform: translateY(0px);">🎥 Watch Video</a>
+                <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#challenges" class="btn btn-secondary fade-in" style="animation-delay: 0.7s; opacity: 1; transform: translateY(0px);">Explore the Solution</a>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span style="font-size: 2rem;">↓</span>
+        </div>
+    </section>
+
+    <!-- Introduction -->
+    <section style="background: white;">
+        <div class="container">
+            <div class="section-title">
+                <h2>The Beautiful Game Faces Ugly Truths</h2>
+            </div>
+            <div class="grid grid-2">
+                <div class="slide-in-left" style="opacity: 1; transform: translateY(0px);">
+                    <p style="font-size: 1.2rem; line-height: 1.8;">
+                        Football is the world's game. The FIFA World Cup is its crown jewel — a celebration of unity, passion, and human achievement. It is the stage where nations unite, where legends are born, and where billions of fans share unforgettable moments.
+                    </p>
+                </div>
+                <div class="slide-in-right" style="opacity: 1; transform: translateY(0px);">
+                    <p style="font-size: 1.2rem; line-height: 1.8;">
+                        Yet beneath the glamour lies a series of crises that threaten the integrity of the sport and the safety of millions. These challenges demand immediate action.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Presentation Section -->
+    <section class="video-section" id="video">
+        <div class="container">
+            <div class="section-title">
+                <h2>📹 Watch the Presentation</h2>
+            </div>
+            <p style="text-align: center; font-size: 1.2rem; margin-bottom: 3rem; color: #666;">
+                See the full AI FairPlay presentation and learn how artificial intelligence can transform football's future.
+            </p>
+            <div class="video-wrapper">
+                <div class="video-container" id="videoContainer">
+                    <video id="mainVideo" controls="" preload="metadata" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; border-radius: 12px; background: #000;" poster="data:image/svg+xml,%3Csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; viewBox=&#39;0 0 800 450&#39;%3E%3Crect fill=&#39;%230066cc&#39; width=&#39;800&#39; height=&#39;450&#39;/%3E%3Ctext x=&#39;50%25&#39; y=&#39;50%25&#39; dominant-baseline=&#39;middle&#39; text-anchor=&#39;middle&#39; font-family=&#39;Arial&#39; font-size=&#39;48&#39; fill=&#39;white&#39;%3E⚽ AI FairPlay Presentation%3C/text%3E%3Ctext x=&#39;50%25&#39; y=&#39;60%25&#39; dominant-baseline=&#39;middle&#39; text-anchor=&#39;middle&#39; font-family=&#39;Arial&#39; font-size=&#39;24&#39; fill=&#39;white&#39; opacity=&#39;0.8&#39;%3EClick to Play%3C/text%3E%3C/svg%3E">
+                        <source src="../assets/video.mp4" type="video/mp4">
+                        <source src="file:///C:/Users/Sofonie Dala/Desktop/ai-fairplay-project/assets/video.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="https://youtu.be/cfV7albMnuQ" target="_blank" class="btn btn-primary" style="margin-right: 1rem;">
+                        🎥 Watch on YouTube
+                    </a>
+                    <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/website/index.html#challenges" class="btn btn-secondary">
+                        Continue Reading ↓
+                    </a>
+                </div>
+                <div style="background: #d4edda; padding: 1.5rem; border-radius: 8px; margin-top: 2rem; border-left: 4px solid #00a86b;">
+                    <p style="margin: 0; color: #155724;">
+                        <strong>✓ Video Ready!</strong> The presentation video is now embedded and will play directly in your browser. Click play to watch!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Challenges Section -->
+    <section id="challenges" style="background: #f8f9fa;">
+        <div class="container">
+            <div class="section-title">
+                <h2>The Challenges We Must Confront</h2>
+            </div>
+
+            <!-- Statistics -->
+            <div class="stats-grid">
+                <div class="stat-box fade-in" style="opacity: 1; transform: translateY(0px);">
+                    <span class="stat-number">1,398</span>
+                    <span class="stat-label">Discrimination Cases (2024-25)</span>
+                </div>
+                <div class="stat-box fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <span class="stat-number">57%</span>
+                    <span class="stat-label">Cases in Youth Football</span>
+                </div>
+                <div class="stat-box fade-in" style="animation-delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <span class="stat-number">Qatar 2022</span>
+                    <span class="stat-label">Exposed Systemic Abuses</span>
+                </div>
+            </div>
+
+            <!-- Challenge Cards -->
+            <div class="grid grid-3">
+                <div class="card challenge-card fade-in" style="opacity: 1; transform: translateY(0px);">
+                    <div class="card-header">
+                        <h3>🚫 Discrimination &amp; Abuse</h3>
+                    </div>
+                    <p>Over <strong>1,398 cases of discrimination</strong> reported in the 2024-25 season alone. Racial slurs, sexist harassment, and homophobic chants plague stadiums and social media.</p>
+                    <div class="alert alert-danger">
+                        <strong>57% of cases</strong> occur in under-18 competitions, normalizing prejudice at an early age.
+                    </div>
+                    <p>FIFA's response has been weak — symbolic fines, closed-door matches, inconsistent enforcement. These measures fail to deter offenders.</p>
+                </div>
+
+                <div class="card challenge-card fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <div class="card-header">
+                        <h3>⚖️ Governance Flaws</h3>
+                    </div>
+                    <p>Structural failures have enabled <strong>systematic human rights abuses</strong>. Qatar 2022 exposed forced labor, mass evictions, and police violence.</p>
+                    <div class="alert alert-warning">
+                        Reforms since 2016 delivered little improvement. Oversight boards were dismantled.
+                    </div>
+                    <p>Without accountability, FIFA risks losing its moral authority. Governance flaws weaken trust and undermine the values FIFA claims to uphold.</p>
+                </div>
+
+                <div class="card challenge-card fade-in" style="animation-delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <div class="card-header">
+                        <h3>🌍 Societal Crises</h3>
+                    </div>
+                    <p>The World Cup brings enormous social consequences. Fans face long-term debt, human trafficking, child exploitation, and prostitution rise during tournaments.</p>
+                    <div class="alert alert-danger">
+                        Fraudulent visa organizations and dishonest investors exploit vulnerable fans.
+                    </div>
+                    <p>Reports of deaths, missing persons, and scams tarnish the World Cup's legacy. The glamour masks crises that linger long after the final whistle.</p>
+                </div>
+            </div>
+
+            <div class="quote-box fade-in" style="opacity: 1; transform: translateY(0px);">
+                "These challenges are interconnected. Discrimination erodes inclusivity. Governance flaws enable corruption. Societal crises exploit the communities football is meant to inspire."
+            </div>
+        </div>
+    </section>
+
+    <!-- Why It Matters -->
+    <section style="background: white;">
+        <div class="container">
+            <div class="section-title">
+                <h2>Why These Challenges Matter</h2>
+            </div>
+            <div class="card">
+                <h3>Imagine the consequences if these issues remain unresolved:</h3>
+                <ul style="font-size: 1.1rem; line-height: 2; margin-left: 2rem;">
+                    <li>Players silenced by fear of abuse</li>
+                    <li>Fans excluded by financial exploitation</li>
+                    <li>Communities scarred by trafficking and fraud</li>
+                    <li>FIFA itself stripped of credibility</li>
+                </ul>
+                <p style="font-size: 1.2rem; margin-top: 2rem; font-weight: 600; color: #0066cc;">
+                    The World Cup should be a beacon of unity, not a symbol of division.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section id="solution" style="background: linear-gradient(135deg, #f8f9fa, #e9ecef);">
+        <div class="container">
+            <div class="section-title">
+                <h2>The Solution: AI FairPlay</h2>
+            </div>
+            
+            <div class="card" style="background: white;">
+                <h3>What is AI FairPlay?</h3>
+                <p style="font-size: 1.2rem; line-height: 1.8;">
+                    AI FairPlay is a platform where <strong>artificial intelligence is the core functional element</strong>, built with IBM's advanced AI technologies. It is designed to tackle discrimination, governance flaws, and societal crises head-on.
+                </p>
+                <p style="font-size: 1.1rem; color: #0066cc; font-weight: 600;">
+                    It is not just a tool, but a framework for accountability, inclusion, and protection.
+                </p>
+            </div>
+
+            <h3 class="text-center" style="margin: 3rem 0 2rem;">How AI FairPlay Works</h3>
+            <div class="grid grid-2">
+                <div class="solution-feature fade-in" style="opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">🔍</span>
+                    <h3>Real-Time Analysis</h3>
+                    <p>AI analyzes reports and social media in real time to detect abuse and recommend immediate action.</p>
+                </div>
+
+                <div class="solution-feature fade-in" style="animation-delay: 0.1s; opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">🔗</span>
+                    <h3>Workflow Integration</h3>
+                    <p>AI connects and organizes workflows across abuse monitoring, governance audits, and fraud detection.</p>
+                </div>
+
+                <div class="solution-feature fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">📄</span>
+                    <h3>Document Intelligence</h3>
+                    <p>AI reads and extracts data from FIFA contracts, disciplinary reports, and financial documents.</p>
+                </div>
+
+                <div class="solution-feature fade-in" style="animation-delay: 0.3s; opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">🧠</span>
+                    <h3>Pattern Recognition</h3>
+                    <p>AI provides context and reasoning, identifying patterns that point to trafficking hotspots or fraud.</p>
+                </div>
+
+                <div class="solution-feature fade-in" style="animation-delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">🤝</span>
+                    <h3>Fan Assistant</h3>
+                    <p>AI acts as a trusted assistant for fans, offering verified information on tickets, visas, and safe travel.</p>
+                </div>
+
+                <div class="solution-feature fade-in" style="animation-delay: 0.5s; opacity: 1; transform: translateY(0px);">
+                    <span class="feature-icon">⚡</span>
+                    <h3>Instant Action</h3>
+                    <p>AI ensures nothing slips through the cracks with automated alerts and recommendations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Prototype Section -->
+    <section id="prototype" style="background: white;">
+        <div class="container">
+            <div class="section-title">
+                <h2>Prototype Functions</h2>
+            </div>
+
+            <div class="prototype-preview">
+                <h3 style="margin-bottom: 2rem;">Three Core Functions</h3>
+                
+                <div class="prototype-function">
+                    <div class="function-number">1</div>
+                    <div>
+                        <h4>Abuse Monitor</h4>
+                        <p>Detects racism, sexism, and homophobia online and in stadiums, recommending sanctions instantly.</p>
+                    </div>
+                </div>
+
+                <div class="prototype-function">
+                    <div class="function-number">2</div>
+                    <div>
+                        <h4>Governance Auditor</h4>
+                        <p>Reviews FIFA's financial and governance documents, highlighting inconsistencies and risks.</p>
+                    </div>
+                </div>
+
+                <div class="prototype-function">
+                    <div class="function-number">3</div>
+                    <div>
+                        <h4>Societal Risk Detector</h4>
+                        <p>Cross-references travel, ticketing, and crime data to flag trafficking or fraud hotspots.</p>
+                    </div>
+                </div>
+
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/dashboard/index.html" class="btn btn-primary">View Interactive Dashboard</a>
+                </div>
+            </div>
+
+            <h3 class="text-center" style="margin: 3rem 0 2rem;">Why AI FairPlay Matters</h3>
+            <div class="grid grid-2">
+                <div class="card fade-in" style="opacity: 1; transform: translateY(0px);">
+                    <h4>👥 For Players</h4>
+                    <p>Safer, more inclusive environments free from discrimination and abuse.</p>
+                </div>
+                <div class="card fade-in" style="animation-delay: 0.1s; opacity: 1; transform: translateY(0px);">
+                    <h4>🎫 For Fans</h4>
+                    <p>Protection from fraud, trafficking, and exploitation during tournaments.</p>
+                </div>
+                <div class="card fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <h4>⚽ For FIFA</h4>
+                    <p>Restored credibility through transparency and accountability.</p>
+                </div>
+                <div class="card fade-in" style="animation-delay: 0.3s; opacity: 1; transform: translateY(0px);">
+                    <h4>🌍 For Society</h4>
+                    <p>A model for how AI can safeguard communities during global mega-events.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Vision Section -->
+    <section id="vision" style="background: #f8f9fa;">
+        <div class="container">
+            <div class="section-title">
+                <h2>The Vision</h2>
+            </div>
+
+            <div class="quote-box">
+                "Imagine a World Cup where every child feels safe in the stands. Where every player competes free from abuse. Where every fan travels without fear of fraud or exploitation."
+            </div>
+
+            <div class="card">
+                <h3>That future is possible — but only if we act.</h3>
+                <p style="font-size: 1.2rem; line-height: 1.8;">
+                    AI FairPlay is not just a solution for FIFA. It is a solution for humanity. Let us innovate responsibly. Let us govern transparently. Let us protect communities. And let us ensure that football remains what it was always meant to be: <strong>the beautiful game</strong>.
+                </p>
+            </div>
+
+            <div class="grid grid-3" style="margin-top: 3rem;">
+                <div class="card text-center fade-in" style="opacity: 1; transform: translateY(0px);">
+                    <span style="font-size: 3rem; display: block; margin-bottom: 1rem;">🔬</span>
+                    <h4>Innovate Responsibly</h4>
+                    <p>Use AI to solve real problems, not create new ones.</p>
+                </div>
+                <div class="card text-center fade-in" style="animation-delay: 0.2s; opacity: 1; transform: translateY(0px);">
+                    <span style="font-size: 3rem; display: block; margin-bottom: 1rem;">📊</span>
+                    <h4>Govern Transparently</h4>
+                    <p>Build systems that hold power accountable.</p>
+                </div>
+                <div class="card text-center fade-in" style="animation-delay: 0.4s; opacity: 1; transform: translateY(0px);">
+                    <span style="font-size: 3rem; display: block; margin-bottom: 1rem;">🛡️</span>
+                    <h4>Protect Communities</h4>
+                    <p>Ensure safety and dignity for all participants.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>The Challenges Are Immense, But So Is The Opportunity</h2>
+            <p style="font-size: 1.2rem; margin: 2rem 0;">
+                If we confront discrimination, reform governance, and protect society, the World Cup can truly become a beacon of unity. It can show the world that sport is not just entertainment, but a force for justice, inclusion, and human dignity.
+            </p>
+            <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/dashboard/index.html" class="btn btn-primary">Explore Dashboard</a>
+                <a href="file:///C:/Users/Sofonie%20Dala/Desktop/ai-fairplay-project/presentation/index.html" class="btn btn-secondary">View Presentation</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p><strong>AI FairPlay</strong> - Transforming Football's Future</p>
+            <p>Presented by Sofonie Dala, Sustainability Impact Volunteer</p>
+            <p style="margin-top: 1rem; opacity: 0.8;">Built with IBM AI Technologies</p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            });
+        });
+
+        // Intersection Observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        // Observe all animated elements
+        document.querySelectorAll('.fade-in, .slide-in-left, .slide-in-right').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(20px)';
+            observer.observe(el);
+        });
+
+        // Video debugging and error handling
+        const video = document.getElementById('mainVideo');
+        if (video) {
+            video.addEventListener('loadedmetadata', function() {
+                console.log('Video metadata loaded successfully');
+                console.log('Duration:', video.duration);
+            });
+
+            video.addEventListener('error', function(e) {
+                console.error('Video error:', e);
+                console.error('Error code:', video.error ? video.error.code : 'unknown');
+                
+                // Show helpful error message
+                const container = document.getElementById('videoContainer');
+                container.innerHTML = `
+                    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; padding: 2rem;">
+                        <h3 style="color: white; margin-bottom: 1rem;">⚠️ Video Loading Issue</h3>
+                        <p style="margin-bottom: 1rem;">The video file couldn't load. Please try:</p>
+                        <ol style="text-align: left; margin: 0 auto; max-width: 400px;">
+                            <li>Refresh the page (F5)</li>
+                            <li>Try a different browser (Chrome recommended)</li>
+                            <li>Click "Watch on YouTube" button below</li>
+                        </ol>
+                    </div>
+                `;
+            });
+
+            video.addEventListener('canplay', function() {
+                console.log('Video can play');
+            });
+        }
+    </script>
+
+</body></html>
