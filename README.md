@@ -28,7 +28,7 @@ For players, it means safer, more inclusive environments. For fans, protection f
 - [Presentation ](https://fairplayfifa.netlify.app/)
 - [Youtube Video] (https://youtu.be/cfV7albMnuQ)
 - [Detailed Youtube Video] (https://youtu.be/cfV7albMnuQ)
-- - [Blog] (https://safe-route-survivor-shield-ai-sofonie.netlify.app/)
+- - [Blog] ()
 ## How AI FairPlay Works
 🔍
 # Real-Time Analysis
@@ -48,5 +48,5 @@ AI acts as a trusted assistant for fans, offering verified information on ticket
 ⚡
 # Instant Action
 AI ensures nothing slips through the cracks with automated alerts and recommendations.
-## GALLERY (Evidence & Media Sources)
-[Media] ()
+## GALLERY (Screenshots,Evidence & Media Sources)
+[Media] (https://disk.yandex.ru/d/FSCPF_ZNgUmm9Q)
